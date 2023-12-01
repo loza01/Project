@@ -272,7 +272,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #00204a;
+  color: #076364;
 }
 
 .slider_section .detail-box h1 {
@@ -677,10 +677,6 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
-/*# sourceMappingURL=style.css.map */
-
-/* ... (your existing CSS styles) ... */
-
 /* Form styling */
 form {
   margin: 20px 0;
