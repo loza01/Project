@@ -30,7 +30,6 @@
     margin: 5px 0;
   }
 
-
 }
 
 @media (max-width: 768px) {
@@ -45,48 +44,7 @@
     display: none;
   }
 
-
-  .client_section .client_container {
-    width: 100%;
-  }
-
-  .client_section .box {
-    margin: 0;
-  }
-
-  .owl-nav {
-    display: flex;
-    justify-content: center;
-    margin-top: 45px;
-  }
-
-  .client_section .owl-carousel .owl-nav .owl-prev,
-  .client_section .owl-carousel .owl-nav .owl-next {
-    position: unset;
-    margin: 0 2.5px;
-  }
 }
-
-@media (max-width: 480px) {
-  .slider_section .detail-box h1 {
-    font-size: 2rem;
-  }
-
-  .track_section form {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .track_section form input {
-    width: 100%;
-  }
-
-  .track_section form button {
-    padding: 10px 60px;
-    margin-top: 10px;
-  }
-}
-
 @media (max-width: 420px) {
   .service_section .box {
     flex-direction: column;
